@@ -6,4 +6,6 @@ const pause = function(time) {
     });
 };
 
-export default { pause };
+const fns = { pause };
+
+export default pause;

@@ -1,4 +1,4 @@
-import { pause } from './utils';
+import pause from './utils';
 
 const welcome = async function() {
     const el = document.querySelector('.message');

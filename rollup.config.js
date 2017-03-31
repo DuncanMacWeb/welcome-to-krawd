@@ -114,7 +114,7 @@ const plugins = [
 ];
 
 const config = {
-  entry: 'welcome.js',
+  entry: 'log-functions.js',
   format: 'cjs',
   plugins: plugins,
   dest: 'bundle.js'
